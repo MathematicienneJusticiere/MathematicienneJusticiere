@@ -1,6 +1,6 @@
 -English:
 
-Hello ! I'm the artist behind **_Mathématicienne Justicière_** ! This account will be the place to find the code of my programs. These programs help me with my creations. 
+Hello ! I'm the artist behind **_Mathématicienne Justicière_** ! This account will be the place to find the source code of my programs. These programs help me with my creations. 
 
 I'm learning to code in C and C++. I'm also learning things in reverse engineering.
 As my name suggest, I'm a mathematician. 
